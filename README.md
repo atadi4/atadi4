@@ -3,5 +3,5 @@
 ## 📍 Weather Widget
 
 <div align="center">
-  <img src="https://github-readme-weather-widget-jghd.vercel.app/api/weather" alt="Weather" />
+  <img src="https://github-readme-weather-widget-xi.vercel.app/" alt="Weather" />
 </div>
