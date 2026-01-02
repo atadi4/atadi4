@@ -28,6 +28,20 @@
 
 <br><br>
 
+### 📊 I Spent My Time On
+
+<a href="https://github.com/atadi4">
+  <img align="left" width="14%" src="https://raw.githubusercontent.com/Charmve/Charmve/master/src/clock.svg" alt="time-clock">
+</a>
+
+<!--START_SECTION:waka-->
+```text
+C/C++        5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
+Embedded C   1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Python       1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Assembly     34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Makefile     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+
 ### 🛠️ 嵌入式技术栈
 
 **开发工具**
