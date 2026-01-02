@@ -6,6 +6,8 @@
 </p>
 
 <br>
+<br>
+<br>
 
 <a href="https://github.com/atadi4/github-readme-weather-widget">
   <img align="right" width="400px" 
