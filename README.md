@@ -7,3 +7,5 @@
        src="https://github-readme-weather-widget-xi.vercel.app/" 
        alt="weather-local">
 </a>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=atadi4&label=Visitors&color=red&style=flat&logo=github" alt="github-visitors" />
