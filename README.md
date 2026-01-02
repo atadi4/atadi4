@@ -9,7 +9,7 @@
 
 <a href="https://github.com/atadi4/github-readme-weather-widget">
   <img align="right" width="300px" 
-       src="https://github-readme-weather-widget-xi.vercel.app/" 
+       src="https://github-readme-weather-widget-xi. vercel.app/" 
        alt="weather">
 </a>
 
@@ -20,7 +20,7 @@
 - 🔭 Currently working on STM32 and IoT projects
 - 🌱 Learning embedded Linux and RTOS
 - 💬 Ask me about STM32, Arduino, embedded C
-- 📫 Reach me: 
+- 📫 Reach me: your-email@example.com
 
 <br><br>
 
@@ -43,37 +43,47 @@
 
 **编程语言**
 
-![C](https://img.shields.io/badge/C-00599C? style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C? style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **通信协议**
 
-![UART](https://img.shields.io/badge/UART-FF6F00?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-1572B6?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-009688?style=flat-square)
-![CAN](https://img.shields.io/badge/CAN_Bus-D22128?style=flat-square)
+![UART](https://img.shields.io/badge/UART-FF6F00?style=flat-square&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-1572B6?style=flat-square&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-009688?style=flat-square&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN_Bus-D22128? style=flat-square&logoColor=white)
 
 **RTOS**
 
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A300?style=flat-square&logo=freertos&logoColor=white)
-![RT-Thread](https://img.shields.io/badge/RT--Thread-0084FF?style=flat-square)
+![RT-Thread](https://img.shields.io/badge/RT--Thread-0084FF?style=flat-square&logoColor=white)
 
 **其他工具**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![J-Link](https://img.shields.io/badge/J--Link-FF6F00?style=flat-square)
-![ST-Link](https://img.shields.io/badge/ST--Link-03234B? style=flat-square)
+![J-Link](https://img.shields.io/badge/J--Link-FF6F00?style=flat-square&logoColor=white)
+![ST-Link](https://img.shields.io/badge/ST--Link-03234B?style=flat-square&logoColor=white)
 
 <br>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=atadi4&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atadi4&layout=compact&theme=dark" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atadi4&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel. app/api/top-langs/? username=atadi4&layout=compact&theme=dark" alt="Top Languages" height="165" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
