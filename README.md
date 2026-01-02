@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/atadi4">
-    <img src="https://img.shields.io/badge/GitHub-@atadi4-000000.svg? logo=GitHub" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-@atadi4-000000.svg?logo=GitHub" alt="GitHub">
   </a>
   <img src="https://komarev.com/ghpvc/?username=atadi4&label=Visitors&color=red&style=flat&logo=github" alt="visitors" />
 </p>
@@ -69,8 +69,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atadi4&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel. app/api/top-langs/?username=atadi4&layout=compact&theme=dark"alt="Top Languages"height="165" />
+  <img src="https://github-readme-stats.vercel.app/api? username=atadi4&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
