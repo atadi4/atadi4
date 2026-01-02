@@ -62,7 +62,7 @@ Makefile     17 mins         ▓░░░░░░░░░░░░░░░░
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino" title="Arduino"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="Raspberry Pi" title="Raspberry Pi"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/espressif.svg" alt="ESP32" title="ESP32"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" title="ESP32"></code>
 
 **工具**
 
