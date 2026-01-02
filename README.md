@@ -15,38 +15,68 @@
 
 ## Hi there, I'm atadi4 👋
 
-<b>← Follow me</b>
+**Embedded Systems Engineer | IoT Developer**
 
-### 🌟 About Me
+- 🔭 Currently working on STM32 and IoT projects
+- 🌱 Learning embedded Linux and RTOS
+- 💬 Ask me about STM32, Arduino, embedded C
+- 📫 Reach me: 
 
-- 🌱 I'm currently learning...
-- 💬 Ask me about...
-- 📫 How to reach me:  ... 
+<br><br>
 
-<br>
+### 🛠️ 嵌入式技术栈
 
-**Languages and Tools:**
+**开发工具**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python. png" alt="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git. png" alt="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
+![Keil MDK](https://img.shields.io/badge/Keil_MDK-0078D7? style=for-the-badge&logo=arm&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+
+**微控制器平台**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+**编程语言**
+
+![C](https://img.shields.io/badge/C-00599C? style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**通信协议**
+
+![UART](https://img.shields.io/badge/UART-FF6F00?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-1572B6?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-009688?style=flat-square)
+![CAN](https://img.shields.io/badge/CAN_Bus-D22128?style=flat-square)
+
+**RTOS**
+
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A300?style=flat-square&logo=freertos&logoColor=white)
+![RT-Thread](https://img.shields.io/badge/RT--Thread-0084FF?style=flat-square)
+
+**其他工具**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![J-Link](https://img.shields.io/badge/J--Link-FF6F00?style=flat-square)
+![ST-Link](https://img.shields.io/badge/ST--Link-03234B? style=flat-square)
 
 <br>
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atadi4&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api? username=atadi4&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atadi4&layout=compact&theme=dark" alt="Top Languages" height="165" />
+</p>
 
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" 
-         src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=100&section=footer"/>
 </div>
