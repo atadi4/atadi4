@@ -49,7 +49,7 @@ Makefile     17 mins         ▓░░░░░░░░░░░░░░░░
 **开发工具**
 
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
-<code><img height="20" src="https://cdn. worldvectorlogo.com/logos/stmicroelectronics. svg" alt="STM32" title="STM32"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/stmicroelectronics.svg" alt="STM32" title="STM32"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" title="Arduino IDE"></code>
 
