@@ -8,7 +8,9 @@
 <br>
 
 <a href="https://github.com/atadi4/github-readme-weather-widget">
-  <img align="right" width="300px" src="https://github-readme-weather-widget-xi.vercel.app/" alt="weather">
+  <img align="left" width="300px" 
+       src="https://github-readme-weather-widget-xi.vercel.app/" 
+       alt="weather">
 </a>
 
 ## Hi there, I'm atadi4 👋
