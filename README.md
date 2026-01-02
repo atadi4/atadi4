@@ -12,7 +12,7 @@
 <a href="https://github.com/atadi4/github-readme-weather-widget">
   <img align="right" 
        width="400px" 
-       style="margin-top: 50px;"
+       style="margin-top: 100px;"
        src="https://github-readme-weather-widget-xi.vercel.app/" 
        alt="weather">
 </a>
