@@ -10,7 +10,9 @@
 <br>
 
 <a href="https://github.com/atadi4/github-readme-weather-widget">
-  <img align="right" width="400px" 
+  <img align="right" 
+       width="400px" 
+       style="margin-top: 50px;"
        src="https://github-readme-weather-widget-xi.vercel.app/" 
        alt="weather">
 </a>
