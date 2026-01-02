@@ -8,9 +8,7 @@
 <br>
 
 <a href="https://github.com/atadi4/github-readme-weather-widget">
-  <img align="right" width="300px" 
-       src="https://github-readme-weather-widget-xi. vercel.app/" 
-       alt="weather">
+  <img align="right" width="300px" src="https://github-readme-weather-widget-xi.vercel. app/" alt="weather">
 </a>
 
 ## Hi there, I'm atadi4 👋
@@ -20,7 +18,7 @@
 - 🔭 Currently working on STM32 and IoT projects
 - 🌱 Learning embedded Linux and RTOS
 - 💬 Ask me about STM32, Arduino, embedded C
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: 
 
 <br><br>
 
@@ -39,12 +37,12 @@
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 **编程语言**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C? style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **通信协议**
@@ -80,13 +78,7 @@
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme:  dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=100&section=footer"/>
-</div>
